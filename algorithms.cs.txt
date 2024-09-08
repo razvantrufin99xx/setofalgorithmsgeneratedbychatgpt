@@ -1,0 +1,35 @@
+Sorting Algorithms
+Bubble Sort
+Selection Sort
+Insertion Sort
+Merge Sort
+Quick Sort
+Heap Sort
+Searching Algorithms
+Linear Search
+Binary Search
+Depth-First Search (DFS)
+Breadth-First Search (BFS)
+Graph Algorithms
+Dijkstra’s Algorithm (shortest path)
+Prim’s Algorithm (minimum spanning tree)
+Kruskal’s Algorithm (minimum spanning tree)
+Floyd-Warshall Algorithm (all pairs shortest path)
+Dynamic Programming Algorithms
+Knapsack Problem
+Longest Common Subsequence
+Fibonacci Sequence
+Bellman-Ford Algorithm (shortest path)
+String Algorithms
+Knuth-Morris-Pratt (KMP) Algorithm (pattern matching)
+Boyer-Moore Algorithm (pattern matching)
+Rabin-Karp Algorithm (pattern matching)
+Cryptographic Algorithms
+RSA Algorithm
+AES (Advanced Encryption Standard)
+SHA (Secure Hash Algorithms)
+Other Notable Algorithms
+A Algorithm* (pathfinding)
+Backtracking Algorithms (e.g., N-Queens problem)
+Divide and Conquer Algorithms (e.g., Merge Sort, Quick Sort)
+Greedy Algorithms (e.g., Huffman Coding)
